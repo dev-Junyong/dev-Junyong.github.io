@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me/me.png
+image: /assets/img/me/me.jpg
 description: >
   안녕하세요! 계속해서 성장하는 새내기 개발자 입니다!
 hide_description: true
@@ -30,21 +30,23 @@ hide_description: true
 > Mar.2014 ~ Aug.2020 인천대학교
 >
 > 경영학부 (Business Administration)
-## Research Interest
- 
+
+## Interest 
 ---
 * Data Engineering
 
 * Web
     + Frontend
     + Backend
----
+
+
 ## Project
+---
 
 ## Awards
 ---
-[***2021 년도 체육종합 데이터 활용 경진대회(주최:국민체육진흥공단, 주관:국민체육진흥공단) 202112](https://dev-junyong.notion.site/8f03152494c546b59079572907e27b61)
-- [입상]
+[2021 년도 체육종합 데이터 활용 경진대회(주최:국민체육진흥공단, 주관:국민체육진흥공단) 202112](https://dev-junyong.notion.site/8f03152494c546b59079572907e27b61) [입상]
+
 ## Work Experiences
 ---
 -2021. 07 – 2022. 06
