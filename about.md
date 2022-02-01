@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me/me.jpg
+image: /assets/img/me/me.JPG
 description: >
   안녕하세요! 계속해서 성장하는 새내기 개발자 입니다!
 hide_description: true
