@@ -19,11 +19,14 @@ hide_description: true
 <center>MAJOR : Business Administration</center>
 <center>Incheon National University</center>
 <center>12-1 Songdo-dong, Yeonsu-gu, Incheon, Korea</center>
+
 ## Personal Data
 ---
 > 1994.09.27 대한민국, 경기도 부천시 출생> 연락처: dev.junyong@gmail.com
-> Github : [https://github.com/dev-junyong](https://github.com/dev-junyong) ## Education
+> Github : [https://github.com/dev-junyong](https://github.com/dev-junyong) 
 ---
+
+## Education
 > Mar.2014 ~ Aug.2020 인천대학교
 >
 > 경영학부 (Business Administration)
@@ -31,16 +34,13 @@ hide_description: true
  
 ---
 * Data Engineering
-<!-- + image Object Detection
-+ Vot
-+ Semantic/Instance Segmentation + Super Resolution -->
+
 * Web
     + Frontend
-    + Backend## Project
+    + Backend
 ---
-<!-- * **Visual Object Tracking Using Plenoptic Image Sequences** * **FPV Swlf-driving RC Car**
-* **Anti Drone AI Robot using object detection**
-* **AI Mashroom Classificator App** -->
+## Project
+
 ## Awards
 ---
 [***2021 년도 체육종합 데이터 활용 경진대회(주최:국민체육진흥공단, 주관:국민체육진흥공단) 202112](https://dev-junyong.notion.site/8f03152494c546b59079572907e27b61)
@@ -52,6 +52,6 @@ SAMSUNG SW ACADEMY FOR YOUTH – SSAFY
 
 ## Skills and Certification
 ---
--Language : Python, Golang, JavaScript
--FrameWork: Django, Vue, React
+-Language : Python, Golang, JavaScript <br>
+-FrameWork: Django, Vue, React <br>
 -Certification : ..
